@@ -1,7 +1,24 @@
 1 Process
+(1)测试舵机
+JX PDI-5521MG Metal Gear
+转向舵机已经可以由树莓派4B进行控制
 
+（2）了解了Ackermann steering geometry
+尝试进行运动学建模
+测量车辆参数
 
+（3）了解电调
+QuicRun WP 880 Dual Brushed
+相关参数
 
+（4）其他事务
+帮助比赛组搭飞机
+数据标定
 
 2 Plan
+（1）电调的选择
+
+（2）实现直流电机PID控制
+
+（3）看完MIT和MQP两篇论文
 
